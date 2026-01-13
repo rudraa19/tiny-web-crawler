@@ -1,0 +1,25 @@
+{
+  "name": "tiny-web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudraa19/tiny-web-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rudraa19/tiny-web-crawler/issues"
+  },
+  "homepage": "https://github.com/rudraa19/tiny-web-crawler#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
